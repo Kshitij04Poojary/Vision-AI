@@ -1,0 +1,12 @@
+flask
+flask-cors
+torch
+torchvision
+pillow
+transformers
+torch-geometric
+
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cpu
+# pip install flask flask-cors pillow transformers
+# pip install torch-scatter torch-sparse torch-cluster torch-spline-conv -f https://data.pyg.org/whl/torch-2.0.0+cpu.html
+# pip install torch-geometric
