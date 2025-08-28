@@ -40,7 +40,7 @@ The first model classifies retinal scans into:
 | 🔭 M   | Myopia                                 |
 | ❗ O   | Other Diseases / Abnormalities         |
 
-✔️ **Accuracy:** 94.5%  
+✔️ **Accuracy:** 96.75%  
 🧠 Trained on diverse patient retinal images
 
 ---
@@ -55,7 +55,7 @@ If Stage 1 detects **Hypertension (H)**, the second model classifies its **sever
 | 🟠 Moderate|  Evident vascular changes        |
 | 🔴 Malignant/Severe  |  Risk of vision loss and systemic complications       |
 
-✔️ **Accuracy:** 92.4%  
+✔️ **Accuracy:** 93.89%  
 🧬 Enables **early detection** and **better clinical decisions**
 
 
